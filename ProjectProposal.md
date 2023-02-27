@@ -2,7 +2,9 @@
 ## Python and bash based RNAseq processing
 
 [Project Overview](#project-overview)
+
 [Computational Overview](#computational-overview)
+
 [Basics of RNAseq Data Processing](#basics-of-RNAseq-Data-Processing)
 
 # Project Overview
